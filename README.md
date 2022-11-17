@@ -54,7 +54,7 @@
 
 **10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?**
 
-![image](https://user-images.githubusercontent.com/116777118/202483361-3f78dd40-03e0-4d1d-a8e1-e0382f221c96.png)
+![image](https://user-images.githubusercontent.com/116777118/202500558-9b215b97-37f7-41e2-8cba-5725aaca7b62.png)
 
 **12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?**
 
@@ -113,6 +113,7 @@
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
 ![image](https://user-images.githubusercontent.com/116777118/202487104-1afaf74c-1d00-4575-bb49-d2a10c84a50d.png)
+
 
 - ***PROBLEMAS: Capitulo 4- Ejercicios Impares***
 
@@ -201,6 +202,7 @@
 
 **37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**
 
+-Cinco
 
 # 4. VIDEO
 
