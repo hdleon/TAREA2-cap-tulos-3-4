@@ -80,6 +80,7 @@
 
 **22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?**
 
+![image](https://user-images.githubusercontent.com/116777118/202911784-6aab246a-613f-4155-b760-fb28cc149234.png)
 
 **- SECCIÓN 3–3 Cálculo de voltaje**
 
@@ -107,6 +108,7 @@
 
 **34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.**
 
+![image](https://user-images.githubusercontent.com/116777118/202915549-517effe4-e33b-4673-8118-a7eb4faa54ee.png)
 
 **- SECCIÓN 3–5 Introducción a la localización de fallas**
 
@@ -191,6 +193,7 @@
 
 **31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
 
+![image](https://user-images.githubusercontent.com/116777118/202923803-3a0814ba-62cc-40e5-bec1-2eae23c7c52d.png)
 
 **33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
 
@@ -206,6 +209,7 @@
 
 # 4. VIDEO
 
+https://www.youtube.com/watch?v=6zoGSq589Ss
 
 # 5. CONCLUSIONES
 
